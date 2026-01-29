@@ -25,3 +25,12 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
 Alberto was here
+
+# Spoon-Knife
+
+Este repositorio se ha utilizado para practicar hacer commits y merge desde distintas ramas, trabajando más de una persona en el proyecto. Para ello se ha utilizado dos ramas: 
+
+- feature/alberto-larios
+- feature/david-alonso
+
+Durante la práctica, se ha encontrado los problemas de conflictos de archivos, donde desde las dos ramas se han intentado escribir en los mismos archivos, entrando entre ellos en conflicto. Para ello se ha usado el comando "git merge", en el que se crean archivos en los que se especifica las líneas que entran en conflicto y, desde el IDE, se puede elegir si mezclar ambas versiones o usar solamente una de las dos. Una vez arreglado los conflictos, se puede hacer un commit y un push de la última versión dentro de la rama main.
