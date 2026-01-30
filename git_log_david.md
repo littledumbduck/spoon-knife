@@ -1,3 +1,27 @@
+commit c80a73f47dbe5906c8f152ef2d476a64bc8c2977
+Author: David Alonso Aguilar <daa0010@alu.medac.es>
+Date:   Fri Jan 30 09:56:33 2026 +0100
+
+    Corrección comandos GIT_LOG.md
+
+commit 7aa8fc4378fcd9beb0c65a21b1d1a1f58196fb66
+Author: David Alonso Aguilar <daa0010@alu.medac.es>
+Date:   Fri Jan 30 09:51:21 2026 +0100
+
+    Añado el GIT_LOG.md
+
+commit eace4473c1510a0c48d4a255898c7fc99662d1c0
+Author: David Alonso Aguilar <daa0010@alu.medac.es>
+Date:   Fri Jan 30 08:40:52 2026 +0100
+
+    README MOD V3
+
+commit d67bab57f59e24462bae124c7e2e51e0d000d386
+Author: David Alonso Aguilar <daa0010@alu.medac.es>
+Date:   Thu Jan 29 14:21:41 2026 +0100
+
+    git_log_david v1 correcion de commit
+
 commit c0c8c10c2e5b8e1b6a423de3afa0441362fee152
 Author: David Alonso Aguilar <daa0010@alu.medac.es>
 Date:   Thu Jan 29 14:16:22 2026 +0100
