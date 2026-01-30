@@ -34,3 +34,15 @@ Este repositorio se ha utilizado para practicar hacer commits y merge desde dist
 - feature/david-alonso
 
 Durante la práctica, se ha encontrado los problemas de conflictos de archivos, donde desde las dos ramas se han intentado escribir en los mismos archivos, entrando entre ellos en conflicto. Para ello se ha usado el comando "git merge", en el que se crean archivos en los que se especifica las líneas que entran en conflicto y, desde el IDE, se puede elegir si mezclar ambas versiones o usar solamente una de las dos. Una vez arreglado los conflictos, se puede hacer un commit y un push de la última versión dentro de la rama main.
+
+
+---------------------------------------------------------------------------------
+
+
+El repositorio inicial de spoon-knife es un HTML simple con texto, un CSS sencillo para darle un poco de estilo y un README que habla sobre el fork.
+Tras las modificaciones pertinentes que requería este trabajo, en el repositorio se pueden observar el README, los GIT_LOG, el HTML index, el JavaScript main, y el CSS styles, con sus respectivas modificaciones.  
+
+
+
+
+@David @Alberto
