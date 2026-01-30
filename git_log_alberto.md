@@ -1,8 +1,90 @@
+commit 5ef18cb8e24e5054cef46921af0bb24f54550387
+Author: Alberto Larios Espina <ale0014@alu.medac.es>
+Date:   Fri Jan 30 10:26:36 2026 +0100
+
+    index change
+
+commit 96ee9362f1951b12886667aa7a5a91260b1e2010
+Merge: 71e3cd1 b2a3150
+Author: Alberto Larios Espina <ale0014@alu.medac.es>
+Date:   Fri Jan 30 10:19:51 2026 +0100
+
+    Merge branch 'main' of https://github.com/littledumbduck/spoon-knife
+
+commit b2a31508011e51bf38122430e2627bec35c8be14
+Author: David Alonso Aguilar <daa0010@alu.medac.es>
+Date:   Fri Jan 30 09:59:55 2026 +0100
+
+    git_log_david v2
+
+commit c80a73f47dbe5906c8f152ef2d476a64bc8c2977
+Author: David Alonso Aguilar <daa0010@alu.medac.es>
+Date:   Fri Jan 30 09:56:33 2026 +0100
+
+    Corrección comandos GIT_LOG.md
+
+commit 7aa8fc4378fcd9beb0c65a21b1d1a1f58196fb66
+Author: David Alonso Aguilar <daa0010@alu.medac.es>
+Date:   Fri Jan 30 09:51:21 2026 +0100
+
+    Añado el GIT_LOG.md
+
+commit eace4473c1510a0c48d4a255898c7fc99662d1c0
+Author: David Alonso Aguilar <daa0010@alu.medac.es>
+Date:   Fri Jan 30 08:40:52 2026 +0100
+
+    README MOD V3
+
+commit d67bab57f59e24462bae124c7e2e51e0d000d386
+Author: David Alonso Aguilar <daa0010@alu.medac.es>
+Date:   Thu Jan 29 14:21:41 2026 +0100
+
+    git_log_david v1 correcion de commit
+
+commit 71e3cd1615f5fb109bcd8dba20e1e6f327361138
+Author: Alberto Larios Espina <ale0014@alu.medac.es>
+Date:   Thu Jan 29 14:19:56 2026 +0100
+
+    Alberto log
+
+commit c0c8c10c2e5b8e1b6a423de3afa0441362fee152
+Author: David Alonso Aguilar <daa0010@alu.medac.es>
+Date:   Thu Jan 29 14:16:22 2026 +0100
+
+    index git stash mod
+
+commit 7a1e3a550cca48b1ef74ad05ce08f74688ee0f23
+Merge: 8efb7cc 7719619
+Author: David Alonso Aguilar <daa0010@alu.medac.es>
+Date:   Thu Jan 29 14:10:05 2026 +0100
+
+    Merge branch 'main' of https://github.com/littledumbduck/spoon-knife
+
 commit 7719619323f6f30c8d816c3141b6e0453435cec2
 Author: Alberto Larios Espina <ale0014@alu.medac.es>
 Date:   Thu Jan 29 14:08:14 2026 +0100
 
     Explicacion de proyecto en README
+
+commit 8efb7cc37522373938cebad14fc1af32d72d80c9
+Merge: 6bb9f45 3f2e688
+Author: David Alonso Aguilar <daa0010@alu.medac.es>
+Date:   Thu Jan 29 13:39:36 2026 +0100
+
+    Merge branch 'main' of https://github.com/littledumbduck/spoon-knife
+
+commit 6bb9f45b6c6c8ed028dcc5920ff595244d04b319
+Merge: a26f5a5 efe7857
+Author: David Alonso Aguilar <daa0010@alu.medac.es>
+Date:   Thu Jan 29 13:33:05 2026 +0100
+
+    readme Mod4
+
+commit efe78576daaa4fd1f8922b62a27a3735c501c0f5
+Author: David Alonso Aguilar <daa0010@alu.medac.es>
+Date:   Thu Jan 29 13:29:54 2026 +0100
+
+    readme Mod3
 
 commit 3f2e68803f6007184bf23d5d8ecce42a8f525488
 Merge: a26f5a5 218c6c0
